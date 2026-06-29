@@ -1,0 +1,7 @@
+# ye file banao .gitignore naam se project folder mein
+*.pt
+*.mp4
+*.db
+__pycache__/
+*.pyc
+.env
