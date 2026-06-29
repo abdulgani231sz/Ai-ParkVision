@@ -26,7 +26,8 @@ No ground sensors. No manual checking. Just a camera and a video file.
 
 ## Live Output
 
-![ParkVision Live Output](assets/demo_output.png)
+<img width="1918" height="1078" alt="Screenshot 2026-06-29 093949" src="https://github.com/user-attachments/assets/c2285018-0cc7-4a61-b030-fe90c3ab063e" />
+
 
 > **48 slots monitored** across 4 rows — 14 occupied (green), 34 available (orange), 15 vehicles detected at 7 FPS on CPU.
 
