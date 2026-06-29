@@ -1,0 +1,19 @@
+# ParkVision — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# ── Computer Vision & Detection ──────────────────────────────────────────────
+ultralytics>=8.0.0          # YOLOv8 + ByteTrack built-in
+opencv-python>=4.8.0        # Frame reading, drawing, morphology
+
+# ── Numerical ────────────────────────────────────────────────────────────────
+numpy>=1.24.0
+
+# ── Dashboard ────────────────────────────────────────────────────────────────
+streamlit>=1.32.0
+pandas>=2.0.0
+
+# ── Standard library (no install needed, listed for clarity) ─────────────────
+# sqlite3   — database
+# threading — frame reader thread
+# queue     — producer/consumer buffer
+# dataclasses, pathlib, logging, argparse — utilities
